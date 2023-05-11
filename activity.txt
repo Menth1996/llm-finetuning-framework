@@ -188,3 +188,4 @@ Activity on 2023-04-19T00:00:00 - Implement "UI component" functionality
 Activity on 2023-04-28T00:00:00 - Fix "configuration" issue
 Activity on 2023-05-01T00:00:00 - Add support for "model training"
 Activity on 2023-05-04T00:00:00 - ci: Configure CI/CD pipeline
+Activity on 2023-05-11T00:00:00 - Update "model training" documentation
