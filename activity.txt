@@ -191,3 +191,4 @@ Activity on 2023-05-04T00:00:00 - ci: Configure CI/CD pipeline
 Activity on 2023-05-11T00:00:00 - Update "model training" documentation
 Activity on 2023-05-31T00:00:00 - Update "API integration" documentation
 Activity on 2023-05-31T00:00:00 - Initial commit
+Activity on 2023-06-01T00:00:00 - refactor: Improve code structure
