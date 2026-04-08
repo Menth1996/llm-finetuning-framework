@@ -1,0 +1,16 @@
+model:
+  name: llama2-7b
+  precision: bfloat16
+dataset:
+  path: data/my_custom_dataset.jsonl
+  format: jsonl
+training:
+  epochs: 3
+  batch_size: 4
+  learning_rate: 2e-4
+  lora_rank: 8
+  lora_alpha: 16
+  lora_dropout: 0.1
+output:
+  dir: ./finetuned_models
+  checkpoint_interval: 1
