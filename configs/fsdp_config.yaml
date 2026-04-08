@@ -1,0 +1,6 @@
+fsdp_config:
+  sharding_strategy: "FULL_SHARD"
+  cpu_offload: False
+  auto_wrap_policy: "TRANSFORMER_LAYER_WRAP"
+  transformer_layer_cls_to_wrap: "LlamaDecoderLayer"
+  # Add other FSDP specific configurations here
