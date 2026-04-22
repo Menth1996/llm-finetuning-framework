@@ -134,3 +134,4 @@ Activity on 2026-04-07T00:00:00 - Update dependencies
 Activity on 2026-04-09T00:00:00 - Merge pull request #20 from fast-vector-db/main
 Activity on 2026-04-10T00:00:00 - build: Update build configuration
 Activity on 2026-04-16T00:00:00 - Update "model training" documentation
+Activity on 2026-04-22T00:00:00 - ci: Configure CI/CD pipeline
